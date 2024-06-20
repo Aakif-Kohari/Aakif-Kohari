@@ -7,7 +7,12 @@ I am Interested in Coding as I am fascinated by how computers work.
 
 I have learned C language and am currently learning C++, Javascript and Python. Besides my usual Studies.
 
-Though I don't know that much I am willing to help with the knowledge I have.
+Though I don't know that much, I am willing to help with the knowledge I have.
+
+I am new to this so I may make mistakes as I don't know much about git, github and licensing.
+If I make any Mistakes, I am sorry in advance and please guide me to not make such mistakes again.
+
+**_THANK YOU_**
 
 You can Contact Me At:
 
