@@ -11,7 +11,7 @@ Though I don't know that much I am willing to help with the knowledge I have.
 
 You can Contact Me At:
 
-[![linkedIn](https://github.com/Aakif-Kohari/Aakif-Kohari/assets/159609181/d49830b6-dbdc-4036-b398-76861a06914c)](https://www.linkedin.com/in/aakif-kohari-778359287/)
+[![linkedIn](https://github.com/Aakif-Kohari/Aakif-Kohari/assets/159609181/d49830b6-dbdc-4036-b398-76861a06914c)](https://www.linkedin.com/in/aakif-kohari/)
 [![Github](https://github.com/Aakif-Kohari/Aakif-Kohari/assets/159609181/829ecfee-2c26-4f89-939f-cf89bbab3823)](https://github.com/Aakif-Kohari)
 
 
