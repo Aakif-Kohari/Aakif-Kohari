@@ -1,3 +1,5 @@
+[![Panel(1)](https://github.com/Aakif-Kohari/Aakif-Kohari/assets/159609181/5c78d383-17f9-4261-83c2-ddc35d8baf93)](https://github.com/Aakif-Kohari)
+
 ## Hi there! 👋
 Hello! 👋 I am Aakif Kohari,
 Currently Studying BE Computer Science & Technology (Data Science)
@@ -5,11 +7,11 @@ at Anjuman-I-Islam Kalsekar Technical Campus.
 
 I am Interested in Coding as I am fascinated by how computers work.
 
-I have learned C language and am currently learning C++, Javascript and Python. Besides my usual Studies.
+I have learned C language and am currently learning C++, JavaScript and Python. Besides my usual Studies.
 
 Though I don't know that much, I am willing to help with the knowledge I have.
 
-I am new to this so I may make mistakes as I don't know much about git, github and licensing.
+I am new to this so I may make mistakes as I don't know much about Git, GitHub and Licensing.
 If I make any Mistakes, I am sorry in advance and please guide me to not make such mistakes again.
 
 **_THANK YOU_**
