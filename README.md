@@ -1,4 +1,4 @@
-[![Panel(1)](https://github.com/Aakif-Kohari/Aakif-Kohari/assets/159609181/09d86f88-dda8-4c0f-acca-9d56214a1271)](https://github.com/Aakif-Kohari)
+[![Banner](Banner-GitHub.png)](https://github.com/Aakif-Kohari)
 
 ## Hi there! 👋
 Hello! 👋 I am Aakif Kohari,
