@@ -26,7 +26,7 @@
 - 🏗️ Built **BikriTracker** — ML-powered sales forecasting for Indian kirana stores
 - 🏥 Built **Body Debugger** — AI health-tech app, built at a hackathon under live deadline
 - 🔐 Pursuing **Honours in Cybersecurity**
-- 🌱 Currently deepening: **TypeScript**, **System Design**, **Docker**
+- 🌱 Currently deepening: **Cloud Computing**, **System Design**, **Docker**
 - 📬 Reach me: **kohariaakif@gmail.com**
 - 🤝 Open to: Internships · Fresher Roles · Freelance · Collaborations
 
@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aakif-Kohari&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Aakif-Kohari&theme=dark&hide_border=false"/>
 </p>
 
 ---
